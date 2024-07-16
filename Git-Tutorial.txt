@@ -1,0 +1,18 @@
+Git and GitHub Tutorial
+
+Git - It is a version control system 
+
+To download Git version control - use:- https://git-scm.com/downloads
+
+To access code files eaily and edit them use Vs studio or visual studio code :- https://code.visualstudio.com/
+
+Git Alternatives:
+ * Gitbucket
+ * Bitbucket
+
+After installing Git system to confirm it.
+Open cmd(Command prompt) -> Type: 'git --version' -> Enter
+
+If it shows like this :-  git version (Version number), Ex:- git version 2.43
+
+Your git control is sucessfully installed
